@@ -18,7 +18,7 @@ This project is a simple demonstration of mega e-commerce websites like Flipkart
 2.  Activate the virtual environment :
     >   source ods_env/bin/activate
 
-3.  Chnage working directory to *ODS* and install the required libraries :
+3.  Change working directory to *ODS* and install the required libraries :
     >   python3 -m pip install -r requirements.txt
 
 ## Usage
